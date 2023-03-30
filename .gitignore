@@ -4,3 +4,4 @@ env
 *.jpg
 *.png
 images
+interpolate_test
